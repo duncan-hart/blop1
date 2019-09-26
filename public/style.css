@@ -17,6 +17,9 @@ h1 a {
 	text-decoration: none;
 	color: black;
 }
+a {
+	color: black;
+}
 header #byline {
 	font-size: 0.8em;
 	margin-top: -1.6em;
