@@ -20,7 +20,7 @@ article p {
 	text-align: justify;
 	text-justify: inter-word
 }
-ul.postlist ul.archivelist {
+ul.postlist, ul.archivelist {
 	list-style: none;
 }
 h1 {
