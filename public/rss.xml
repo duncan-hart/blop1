@@ -5,12 +5,12 @@
 <title>Dison oso Haus</title>
 <description>Drew's blog</description>
 <language>en-gb</language>
-<link>https://uoou.gitlab.io/blop_blog//rss.xml</link>
-<atom:link href="https://uoou.gitlab.io/blop_blog//rss.xml" rel="self" type="application/rss+xml" />
+<link>https://uoou.gitlab.io/blop_blog/rss.xml</link>
+<atom:link href="https://uoou.gitlab.io/blop_blog/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
 <title>Deus Ex: Mankind Divided</title>
-<guid>https://uoou.gitlab.io/blop_blog//Deus-Ex:-Mankind-Divided.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Deus-Ex:-Mankind-Divided.html</guid>
 <pubDate>Thu, 26 Sep 2019 03:09:52 +0100</pubDate><description><![CDATA[<p>I like games that give me tools and let me decide how to use them. Games with emergent, interconnected systems that reward exploration and experimentation. Games that blend the static and scripted with the systemic and emergent such that the world feels reactive and alive with possibilities. Games where everything you do is a choice.</p>
 <p>Deux Ex games take these mechanics and intertwine them with narratives of espionage and global conspiracy, filled with major and minor characters with diverse motivations, goals and loyalties, and leave you free to find your own place and role in their world.</p>
 <p>Mankind Divided is the most successful game at doing all of that since the original Deus Ex.</p>
@@ -50,7 +50,7 @@
 
 <item>
 <title>Forager</title>
-<guid>https://uoou.gitlab.io/blop_blog//Forager.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Forager.html</guid>
 <pubDate>Tue, 24 Sep 2019 03:19:50 +0100</pubDate><description><![CDATA[<p>I uninstalled Forager today.</p>
 <p>Not because its bad but because its very good. It’s so good in fact that I found myself playing it when I didn’t want to. You see… It is well established that I like clickers a lot and use them as a sort of mood balancer. This works well for me. Load clicker, allow endorphins to arrive and work through bad/depressed mood. Its a good relationship that Clickers and I have. Forager however is a different beast and not something that fits into my Clicketty click symbiosis.</p>
 <!--more-->
@@ -74,7 +74,7 @@
 
 <item>
 <title>Moonlighter</title>
-<guid>https://uoou.gitlab.io/blop_blog//Moonlighter.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Moonlighter.html</guid>
 <pubDate>Mon, 23 Sep 2019 05:18:52 +0100</pubDate><description><![CDATA[<p>By all systems of measurement that I can point to, Moonlighter is a good game. It gets the much sought-after Mostly Positive on steam (both recent and all reviews), its MetaCritter score is 74 (Not top tier, but solid GOOD) and people tell me how great it is whenever it come up in conversation.</p>
 <h3 id="so-what-is-it">So what is it?</h3>
 <p>It can describe itself how it wants but its essentially a classically styled top-down action dungeon crawler that’s been Rogulite inspired (yes. that describes an ARPG, I know, but in this case that feels wrong.. by Odins staff why do people care so much about the exact genre a game falls into?)</p>
@@ -117,140 +117,140 @@
 
 <item>
 <title>Test Post 8</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-8.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-8.html</guid>
 <pubDate>Sun, 30 Sep 2018 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 20</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-20.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-20.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 17</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-17.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-17.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 16</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-16.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-16.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 9</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-9.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-9.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 7</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-7.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-7.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 4</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-4.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-4.html</guid>
 <pubDate>Sat, 30 Sep 2017 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 15</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-15.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-15.html</guid>
 <pubDate>Fri, 30 Sep 2016 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 2</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-2.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-2.html</guid>
 <pubDate>Fri, 30 Sep 2016 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 19</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-19.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-19.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 18</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-18.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-18.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 14</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-14.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-14.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 13</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-13.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-13.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 12</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-12.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-12.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 10</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-10.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-10.html</guid>
 <pubDate>Wed, 30 Sep 2015 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 11</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-11.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-11.html</guid>
 <pubDate>Tue, 30 Sep 2014 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 6</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-6.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-6.html</guid>
 <pubDate>Tue, 30 Sep 2014 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 5</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-5.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-5.html</guid>
 <pubDate>Tue, 30 Sep 2014 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 3</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-3.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-3.html</guid>
 <pubDate>Tue, 30 Sep 2014 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
 
 <item>
 <title>Test Post 1</title>
-<guid>https://uoou.gitlab.io/blop_blog//Test-Post-1.html</guid>
+<guid>https://uoou.gitlab.io/blop_blog/posts/Test-Post-1.html</guid>
 <pubDate>Tue, 30 Sep 2014 11:09:08 +0100</pubDate><description><![CDATA[<p>This is a test post</p>]]></description>
 </item>
 
